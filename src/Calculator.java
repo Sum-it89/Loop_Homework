@@ -15,7 +15,7 @@ public class Calculator
         System.out.println("Please enter your symbol: ");
         char symbol = scanner.next().charAt(0);
 
-        switch (symbol) //switch function for condition.....
+        switch (symbol) //switch function for condition.......
         {
             case '+':
                 System.out.println("Addition: " + (num1+num2));
